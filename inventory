@@ -4,6 +4,4 @@ workstation
 [local]
 local.localhost
 
-#[dev]
-#node3
 
